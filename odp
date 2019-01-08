@@ -1,0 +1,1 @@
+sledzone sa pliki moj_program.c i readme . git ignoruje pliki .dat(one.dat i two.dat) ponieważ znajduję się one w pliku.gitignore :) 
